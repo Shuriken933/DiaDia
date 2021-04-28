@@ -23,7 +23,7 @@ import it.uniroma3.diadia.comandi.FabbricaDiComandiFisarmonica;
 
 public class DiaDia {
 
-	static final private String MESSAGGIO_BENVENUTO = ""+
+	/*static final private String MESSAGGIO_BENVENUTO = ""+
 			"Ti trovi nell'Universita', ma oggi e' diversa dal solito...\n" +
 			"Meglio andare al piu' presto in biblioteca a studiare. Ma dov'e'?\n"+
 			"I locali sono popolati da strani personaggi, " +
@@ -31,7 +31,9 @@ public class DiaDia {
 			"Ci sono attrezzi che potrebbero servirti nell'impresa:\n"+
 			"puoi raccoglierli, usarli, posarli quando ti sembrano inutili\n" +
 			"o regalarli se pensi che possano ingraziarti qualcuno.\n\n"+
-			"Per conoscere le istruzioni usa il comando 'aiuto'.";
+			"Per conoscere le istruzioni usa il comando 'aiuto'.";*/
+	
+	static final private String MESSAGGIO_BENVENUTO = "ciaoooooo";
 
 
 	private Partita partita;
